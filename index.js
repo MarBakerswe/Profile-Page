@@ -20,3 +20,4 @@ dogDetails.setAttribute('class', 'dog-details')
 content.append(dogDetails)
 
 
+1
